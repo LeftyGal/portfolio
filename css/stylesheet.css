@@ -114,7 +114,7 @@ figcaption {
 .p1 {
   font-family: "Archivo Narrow", sans-serif;
   color: white;
-}
+    }
 
  /* images float left and center on page (float the images, create links and center links) */
 
@@ -124,15 +124,14 @@ footer {
         }
 
 footer img {
-  margin: 
   width: 200px;
   height: 150px;
           }
 
 footer img-circle
-    {
+        {
     border-radius: 50%;
-    }
+        }
 
 footerb {
   color: white;
@@ -150,12 +149,12 @@ footerb a li {
   text-align: center;
   text-decoration-color: white;
   margin: 20px;
-}
+          }
 
 .icon-background5 {
     color: #878787;
     opacity:01;
-}
+          }
 
   
 
